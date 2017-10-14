@@ -15,6 +15,26 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/css\/reset.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/reset-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -30,16 +50,6 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
-		},
-	"\/styles.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/styles-min.css",
-		"oF": 0,
-		"oS": 3
 		}
 	},
 "hooks": [
