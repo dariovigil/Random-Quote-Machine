@@ -20,3 +20,5 @@ function renderQuote(quote) {
 // const myQuote = [];
 // console.log(myQuote.content);
 // console.log(myQuote);
+
+
