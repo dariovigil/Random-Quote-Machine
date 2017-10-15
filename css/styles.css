@@ -53,3 +53,23 @@ blockquote::after{
   /*Reset to make sure*/
   content: "";
 }
+
+.button {
+
+      border:none;
+      border-radius:3px;
+      color:#fff;
+      background-color:#999;
+      outline:none;
+      font-weight: 300;
+      font-size:.75em;
+      padding: 8px 18px 6px 18px;
+      margin-top:30px;
+      opacity:1;
+      cursor:pointer;
+      transition: opacity .5s;
+    }
+
+.button:hover {
+  opacity: .7;
+}
