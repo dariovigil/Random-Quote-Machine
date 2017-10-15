@@ -45,6 +45,82 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/graphic references\/353.jpg": {
+		"ft": 16384,
+		"iS": 17175,
+		"oA": 0,
+		"oAP": "\/graphic references\/353.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/graphic references\/mockup.psd": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/graphic references\/mockup.psd",
+		"oF": 0
+		},
+	"\/graphic references\/Quotefancy-2226-3840x2160.jpg": {
+		"ft": 16384,
+		"iS": 892225,
+		"oA": 0,
+		"oAP": "\/graphic references\/Quotefancy-2226-3840x2160.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/graphic references\/reference.jpg": {
+		"ft": 16384,
+		"iS": 34197,
+		"oA": 0,
+		"oAP": "\/graphic references\/reference.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/graphic references\/shutterstock_224408902.jpg": {
+		"ft": 16384,
+		"iS": 8354945,
+		"oA": 0,
+		"oAP": "\/graphic references\/shutterstock_224408902.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/graphic references\/shutterstock_410341483.jpg": {
+		"ft": 16384,
+		"iS": 7590192,
+		"oA": 0,
+		"oAP": "\/graphic references\/shutterstock_410341483.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/graphic references\/shutterstock_553725424.jpg": {
+		"ft": 16384,
+		"iS": 1626730,
+		"oA": 0,
+		"oAP": "\/graphic references\/shutterstock_553725424.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bg.jpg": {
+		"ft": 16384,
+		"iS": 832458,
+		"oA": 0,
+		"oAP": "\/img\/bg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
