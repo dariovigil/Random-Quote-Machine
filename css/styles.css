@@ -1,16 +1,55 @@
 body {
-  background-image: url("../img/bg.jpg");
-  background-color: #373737;
+  background: url("../img/bg.jpg") no-repeat ;
+  background-size: 100%;
+  background-color: #dad9d7;
   color: #DDD;
-  font-family: monospace;
   font-size: 1.5em;
   line-height: 1.3em;
 }
-
+.quote-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 80px;
+  position: absolute;
+  top: 300px;
+  width: 60%;
+  font-family: 'Chivo', sans-serif;
+}
 .quote-author {
-  font-style: italic;
+  color: #000;
+  font-size: 1em;
+  font-weight: 300;
+  font-style: normal;
+  align-self: flex-end;
 }
 
-.quotes {
-  color: #5A5A5A;
+
+
+.quote-text {
+  font-size: 2em;
+  line-height: 1em;
+  font-weight: 700;
+  font-style: italic;
+  color: black;
+  margin-bottom: .3em;
+}
+
+.quote-text::before{
+  content: "\201C"; /*Unicode for Left Double Quote*/
+
+  /*Font*/
+  font-size: 6em;
+  font-weight: bold;
+  color: #999;
+
+
+  /*Positioning*/
+  position: absolute;
+  left:-40px;
+  top:-25px;
+}
+
+blockquote::after{
+  /*Reset to make sure*/
+  content: "";
 }

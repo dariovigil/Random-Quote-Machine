@@ -42,5 +42,5 @@ function getQuote() {
 
 function renderQuote(quote) {
   quoteContainer.innerHTML = quote[0].content;
-  authorContainer.innerHTML = quote[0].title;
+  authorContainer.innerHTML = `- ${quote[0].title}`;
 }
